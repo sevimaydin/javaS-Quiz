@@ -127,7 +127,7 @@ display:none;
     
 }
 
-@media (orientation: landscape) and (max-width: 600px) {
+@media screen and (max-width: 600px) {
     body {
         background: linear-gradient(90deg, #b9deed, #efefef);
 

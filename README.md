@@ -2,9 +2,9 @@
 
 Java script kullanılarak oluşturulan mini bir bilgi yarışması .
 
-## Başlangıç
+## Proje 
 
-Projeyi aktif olarak görmek için : [github ](https://www.google.com)
+Projeyi aktif olarak görmek için :[link ](https://sevimaydin.github.io/javaS-Quiz/)
 
 
 ### Kullanılan teknolojiler
@@ -12,7 +12,7 @@ Projeyi aktif olarak görmek için : [github ](https://www.google.com)
 HTML CSS JAVASCRİPT
 
 ### Ön izleme
-![](   )
+![](  ekran.gif )
 
 
 
